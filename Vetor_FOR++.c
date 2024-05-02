@@ -9,4 +9,4 @@ int main()  {
     }/* int list[5] = {1(posição 0), 2(posição 1), 3(posição 2), 4(posição 3), 5(posição 4)}; */
     
 return 0;
-}
+} 
